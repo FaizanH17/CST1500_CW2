@@ -1,0 +1,100 @@
+id,name,full_name,private,description,fork,license_name
+2474719,getpython3.com,python/getpython3.com,False,getpython3.com page and resources.,False,
+3698918,community-starter-kit,python/community-starter-kit,False,Collection of resources for Python community organizers,False,
+4241382,psf-docs,python/psf-docs,False,PSF Docs,False,
+4299040,historic-python-materials,python/historic-python-materials,False,Contains some old pages from python.org,False,
+4389262,psf-chef,python/psf-chef,False,Chef configuration and cookbooks for the Python Software Foundation,False,
+5630360,psfoutreach,python/psfoutreach,False,PSF Outreach website,False,
+6127047,pythondotorg,python/pythondotorg,False,Source code for python.org,False,Apache License 2.0
+7053637,mypy,python/mypy,False,Optional static typing for Python,False,Other
+7567351,raspberryio,python/raspberryio,False,Source code for raspberry.io,False,Other
+8930173,pycon-code-of-conduct,python/pycon-code-of-conduct,False,pycon code of conduct,False,
+13414105,peps,python/peps,False,Python Enhancement Proposals,False,
+23242304,psf-salt,python/psf-salt,False,PSF infrastructure configuration,False,MIT License
+23553472,docsbuild-scripts,python/docsbuild-scripts,False,Scripts for building the documentation on docs.python.org,False,
+24216135,planet,python/planet,False,Configuration for Python planets,False,
+24604008,typing,python/typing,False,Python static typing home. Hosts the documentation and a user help forum.,False,Other
+28198936,speed.python.org,python/speed.python.org,False,,False,
+31696383,typeshed,python/typeshed,False,"Collection of library stubs for Python, with static types",False,Other
+33739295,asyncio,python/asyncio,False,asyncio historical repository,False,
+40912239,buildbot,python/buildbot,False,Fork of BuildBot formerly running on buildbot.python.org,True,
+43700638,psf-packages,python/psf-packages,False,Packages for the PSF infrastructure,False,
+51875828,typed_ast,python/typed_ast,False,Modified fork of CPython's ast module that parses `# type:` comments,False,Other
+54906742,the-knights-who-say-ni,python/the-knights-who-say-ni,False,CLA enforcement bot for Python organization projects,False,Apache License 2.0
+58329029,devinabox,python/devinabox,False,Documentation and tools to help host a sprint on Python core development,False,Apache License 2.0
+60299360,pythontestdotnet,python/pythontestdotnet,False,source of pythontest.net (resources used for Python test suite),False,
+61229691,pythonineducation.org,python/pythonineducation.org,False,The pythonineducation.org website,False,Apache License 2.0
+61442459,tlsproxy,python/tlsproxy,False,,False,
+63972479,devguide,python/devguide,False,The Python developer's guide,False,Creative Commons Zero v1.0 Universal
+65913794,overload-sig,python/overload-sig,False,"Discussion about discussion overload, see https://mail.python.org/mm3/mailman3/lists/overload-sig@python.org/",False,
+65949828,pyperformance,python/pyperformance,False,Python Performance Benchmark Suite,False,MIT License
+67442350,release-tools,python/release-tools,False,Scripts for making (C)Python releases,False,Other
+76080865,core-workflow,python/core-workflow,False,Issue tracker for CPython's workflow,False,Apache License 2.0
+80488055,buildmaster-config,python/buildmaster-config,False,Configuration for buildbot.python.org,False,MIT License
+81598961,cpython,python/cpython,False,The Python programming language,False,Other
+83239542,docker-bpo,python/docker-bpo,False,Docker image for bugs.python.org,False,Apache License 2.0
+87574304,bedevere,python/bedevere,False,A bot to help identify missing information for CPython pull requests,False,Apache License 2.0
+92079817,cpython-source-deps,python/cpython-source-deps,False,Source for packages that the cpython build process depends on,False,
+92080048,cpython-bin-deps,python/cpython-bin-deps,False,Binaries that the cpython build process depends on,False,
+92097535,python-docs-fr,python/python-docs-fr,False,Mirroir de https://git.afpy.org/AFPy/python-docs-fr,False,Other
+93341818,python-docs-theme,python/python-docs-theme,False,Sphinx theme for Python documentation,False,Other
+94006355,python-docs-hu,python/python-docs-hu,False,Hungarian Translation of the Python Documentation,False,
+94006436,python-docs-ja,python/python-docs-ja,False,Japanese Translation of the Python Documentation,False,Other
+94006508,python-docs-bn-in,python/python-docs-bn-in,False,Bengali Translation of the Python Documentation,False,Other
+95158375,python-docs-pt-br,python/python-docs-pt-br,False,Brazilian Portuguese translation of the Python Documentation,False,Creative Commons Zero v1.0 Universal
+95175803,psf-infra-meta,python/psf-infra-meta,False,Meta-repository for PSF backed or managed systems. Created mainly for the issue tracker :),False,
+99449805,consul-operator,python/consul-operator,False,A kubernetes operator for consul,False,
+100368452,redistributor-guide,python/redistributor-guide,False,Guidance & recommendations for anyone publishing their own binary builds of CPython,False,Apache License 2.0
+100623862,psf-community-resources,python/psf-community-resources,False,Short guides to PSF-related resources,False,Other
+102508556,miss-islington,python/miss-islington,False,🐍🍒⛏🤖 - A bot for backporting and merging CPython pull requests,False,Apache License 2.0
+114343554,bpo-builder,python/bpo-builder,False,bugs.python.org builder image & other deployment artifacts,False,Apache License 2.0
+117242222,python-docs-ko,python/python-docs-ko,False,Korean translation of the Python documentation,False,
+127166423,python-dev-survey,python/python-dev-survey,False,Place for gathering feedback from the public on the Python Developers Survey,False,
+137490374,bugs.python.org,python/bugs.python.org,False,Meta-issue tracker for bugs.python.org,False,
+138458545,python-docs-zh-tw,python/python-docs-zh-tw,False,Traditional Chinese (zh-tw) translation of the Python Documentation,False,Other
+148399527,blurb_it,python/blurb_it,False,`blurb add` over the internet,False,Apache License 2.0
+154145163,python-docs-zh-cn,python/python-docs-zh-cn,False,Simplified Chinese translation of the Python documentation,False,
+165752308,mypy_extensions,python/mypy_extensions,False,Extensions for mypy,False,Other
+170376737,steering-council,python/steering-council,False,Communications from the Steering Council,False,
+172050043,codespeed,python/codespeed,False,A fork of Codespeed that includes the instances run at https://speed.python.org/ and https://speed.pypy.org,True,Other
+182553592,python-docs-it,python/python-docs-it,False,Italian translation of the Python documentation.,False,
+185224402,python-docs-es,python/python-docs-es,False,Spanish translation of the Python documentation.,False,Other
+189480743,cherry-picker,python/cherry-picker,False,🐍🍒⛏ Utility script for backporting/cherry-picking CPython changes from master into one of the maintenance branches.,False,Apache License 2.0
+189506228,.github,python/.github,False,Organization-wide GitHub settings,False,
+214049428,python-docs-id,python/python-docs-id,False,Terjemahan Bahasa Indonesia untuk Dokumentasi Python,False,Other
+227235970,python-docs-pl,python/python-docs-pl,False,Polskie tłumaczenie dokumentacji Pythona,False,Other
+228462148,exceptiongroups,python/exceptiongroups,False,An early draft of a PEP around Exception Groups in Python,False,
+237821775,hugs.python.org,python/hugs.python.org,False,,False,Apache License 2.0
+242158882,tzdata,python/tzdata,False,Python package wrapping the IANA time zone database,False,Other
+269418584,pythoncapi-compat,python/pythoncapi-compat,False,  The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python versions with a single code base.,False,BSD Zero Clause License
+285913947,core-sprint,python/core-sprint,False,Repo for Virtual Core Dev Sprint 2020,False,Creative Commons Zero v1.0 Universal
+306147182,importlib_resources,python/importlib_resources,False,Backport of the importlib.resources module,False,
+306448340,importlib_metadata,python/importlib_metadata,False,Library to access metadata for Python packages,False,
+309193997,pootle-python-org-backup,python/pootle-python-org-backup,False,,False,
+329680286,language-summit,python/language-summit,False,Resources for the annual Python Language Summit,False,
+358684955,docs-community,python/docs-community,False,Community management for documentation contributors and the Docs Workgroup,False,Creative Commons Zero v1.0 Universal
+389008456,discord-bot,python/discord-bot,False,Discord Bot for Core Devs Discord server,False,Apache License 2.0
+439623558,python-docs-tr,python/python-docs-tr,False,Turkish Translation of the Python Documentation,False,Other
+494077289,typing_extensions,python/typing_extensions,False,Backported and experimental type hints for Python,False,Other
+504323168,python-docs-uk,python/python-docs-uk,False,Ukrainian translation of the Python Documentation,False,Other
+656847333,bench_runner,python/bench_runner,False,Code for running pyperformance benchmarks on Github Action runners,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+724378571,typing-council,python/typing-council,False,Decisions by the Python Typing Council,False,
+735568182,python-docs-ru,python/python-docs-ru,False,Russian Translation of the Python Docs,False,
+740726840,editorial-board,python/editorial-board,False,Communications of the Python Documentation Editorial Board,False,
+772031619,python-docs-el,python/python-docs-el,False,Greek Translation of the Python Documentation,False,Other
+775007678,blurb,python/blurb,False,Command-line tool to manage CPython Misc/NEWS.d entries,False,Other
+819981950,webhook-mailer,python/webhook-mailer,False,GitHub Webhooks -> Email,False,Apache License 2.0
+821105577,psrt-ghsa-bot,python/psrt-ghsa-bot,False,Bot which adds the PSRT GitHub team and CVE IDs to GitHub Security Advisories,False,Other
+861901369,cpython-devcontainers,python/cpython-devcontainers,False,Repository for devcontainers of CPython,False,MIT License
+930032802,python-docs-fa,python/python-docs-fa,False,Farsi (Persian) translation of the official Python documentation,False,Creative Commons Zero v1.0 Universal
+942644792,python-docs-ro,python/python-docs-ro,False,O traducere în românește a documentației Python.,False,Other
+974364212,pymanager,python/pymanager,False,The Python Install Manager (for Windows),False,Other
+1006259285,memory.python.org,python/memory.python.org,False,A memory benchmarking and analysis tool for CPython development,False,MIT License
+1037538655,python-docs-sv,python/python-docs-sv,False,Sweedish Translation of the Python Documentation,False,
+1075604713,prebuilt-cpython,python/prebuilt-cpython,False,Repository for discussing/planning prebuilt binaries of CPython,False,Other
+1098149642,library-fuzzers,python/library-fuzzers,False,"Fuzzer definitions, seed corpora and dictionaries to fuzz-test the stdlib",False,MIT License
+1156848641,python-insider-blog,python/python-insider-blog,False,,False,
+1266055386,python-docs-pa,python/python-docs-pa,False,Punjabi (India) translation of the Python Documentation.,False,Other
+1361702516,python-docs-de,python/python-docs-de,False,German translation of the Python Documentation,False,Other
+1367449019,turtle-translations,python/turtle-translations,False,Translations of the docstrings of Python's 'turtle' module.,False,Other
+1376359880,packaging-council,python/packaging-council,False,Public Records from the Python Packaging Council,False,
